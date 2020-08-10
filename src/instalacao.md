@@ -2,7 +2,7 @@
 
 ### Python
 
-Python não vem "de fábrica" com Windows, e se você é usuário de MacOS ou Linux, possivelmente tem a versão 2.7 na sua máquina -- versão obsoleta.
+Python não vem "de fábrica" com Windows, e se você é usuário de MacOS ou Linux, possivelmente tem a versão 2.7 na sua máquina —versão obsoleta.
 
 Para instalar o Python 3, siga este passo a passo:
 
