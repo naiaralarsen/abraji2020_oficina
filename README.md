@@ -6,6 +6,6 @@ Este repositório contém o material desenvolvido para a oficina *Python para jo
 
 ### Índice
 
-- [Instalação](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/src/instalacao.md)
+- [Instalação](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/config/instalacao.md)
 
 
