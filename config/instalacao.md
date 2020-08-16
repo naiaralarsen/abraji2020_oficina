@@ -1,9 +1,5 @@
 ## Instalação
 
-### Vídeo-tutorial
-
-[https://www.youtube.com/watch?v=Z0s0uFS4oz8](https://www.youtube.com/watch?v=Z0s0uFS4oz8)
-
 ### Passo a passo
 
 Python não vem "de fábrica" com Windows, e se você é usuário de MacOS ou Linux, possivelmente tem a versão 2.7 na sua máquina —versão obsoleta.
