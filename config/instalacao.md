@@ -19,12 +19,12 @@ Para instalar o Python 3, siga este passo a passo:
 - Uma janela de instalação irá aparecer. Quando a barra de progresso chegar ao fim, a instalação estará completa
 - Para checar se a instalação correu perfeitamente, vá ao console (aplicativo _Terminal_ no MacOS e Linux, e _Prompt de Comando_ no Windows) e digite `python --version` ou `python3 --version`, caso seu sistema seja MacOS ou Linux. Depois de pressionar Enter, você terá uma mensagem com a versão de Python que instalou —por exemplo, `Python 3.8.5`. Isso significa que a instalação foi concluída com êxito
 
-Além de Python, vamos usar bibliotecas externas. São elas `Pandas` e `Requests`. Também vamos usar `Jupyter Notebook`, que é um editor onde escreveremos os códigos.
+Além de Python, vamos usar bibliotecas externas. São elas `Pandas` (para lidar com dados de forma tabulada) e `Matplotlib` (para gerar gráficos). Também vamos usar `Jupyter Notebook`, que é um editor onde escreveremos os códigos.
 
 Para instalar tudo isso, siga este passo a passo depois de ter Python 3 na sua máquina:
 
 - Abra o console (aplicativo _Terminal_ no MacOS e Linux, e _Prompt de Comando_ no Windows)
-- Digite `python -m pip install jupyter pandas requests` ou `python3 -m pip install jupyter pandas requests`, dependendo do seu sistema operacional
+- Digite `python -m pip install jupyter pandas matplotlib` ou `python3 -m pip install jupyter pandas matplotlib`, dependendo do seu sistema operacional
 - Aguarde o processo de instalação chegar ao fim
 - Para checar se tudo foi instalado adequadamente, digite `jupyter notebook`. Uma tela do navegador irá abrir, assegurando que `Jupyter Notebook` foi instalado com êxito
 - No canto superior direito, escolha _New_ > _Python 3_
@@ -32,7 +32,7 @@ Para instalar tudo isso, siga este passo a passo depois de ter Python 3 na sua m
 
 ```py
 import pandas
-import requests
+import matplotlib.pyplot
 ```
 
 - Pressione o botão de _play_ na barra de tarefas, na parte superior da tela
