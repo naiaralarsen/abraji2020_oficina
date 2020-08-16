@@ -1,10 +1,10 @@
-# 15º Congresso Internacional de Jornalismo Investigativo
+# 15º Congresso Internacional da Abraji
 
 ## 2º Domingo de Dados
 
 ### Oficina: Python para jornalistas
 
-Este repositório contém o material desenvolvido para a oficina *Python para jornalistas*, a ser ministrada por Andressa Freires e Rodolfo Viana no dia 13 de setembro, às 15 horas, durante o "Domingo de Dados".
+Este repositório contém o material desenvolvido para a oficina *Python para jornalistas*, a ser ministrada por Andressa Freires e Rodolfo Viana no dia 13 de setembro, às 15 horas.
 
 ### Índice
 
