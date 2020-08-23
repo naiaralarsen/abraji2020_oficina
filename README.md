@@ -4,7 +4,7 @@
 
 ### Oficina: Python para jornalistas
 
-Este repositório contém o material desenvolvido para a oficina *Python para jornalistas*, a ser ministrada por Andressa Freires e Rodolfo Viana no dia 13 de setembro, às 15 horas.
+Este repositório contém o material desenvolvido para a oficina *Python para jornalistas*, ministrada por Andressa Freires e Rodolfo Viana, a ser exibida no dia 13 de setembro, às 15 horas.
 
 ### Índice
 
