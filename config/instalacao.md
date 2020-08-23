@@ -34,4 +34,4 @@ import matplotlib.pyplot
 ```
 
 - Pressione o botão de _play_ na barra de tarefas, na parte superior da tela
-- Se aparecer apenas uma linha em branco e nenhum erro, isso significa que `Pandas` e `Requests` foram instalados com sucesso
+- Se aparecer apenas uma linha em branco e nenhum erro, isso significa que `Pandas` e `Matplotlib` foram instalados com sucesso
