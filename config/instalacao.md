@@ -2,6 +2,8 @@
 
 ### Passo a passo
 
+> Caso prefira fazer o download do vídeo que mostra como fazer a instalação no Windows, [clique aqui](https://github.com/rodolfo-viana/abraji2020_oficina/raw/master/config/como_instalar.mp4).
+
 Python não vem "de fábrica" com Windows, e se você é usuário de MacOS ou Linux, possivelmente tem a versão 2.7 na sua máquina —versão obsoleta.
 
 Para instalar o Python 3, siga este passo a passo:
