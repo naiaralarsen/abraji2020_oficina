@@ -6,6 +6,12 @@
 
 Este repositório contém o material desenvolvido para a oficina *Python para jornalistas*, ministrada por Andressa Freires e Rodolfo Viana, a ser exibida no dia 13 de setembro, às 15 horas.
 
+Para fazer download deste material, clique no botão verde "Clone" e selecione "Download ZIP". 
+
+![](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/config/download.png)
+
+Depois basta descompactar o arquivo baixado.
+
 ### Índice
 
 - [Instalação](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/config/instalacao.md) [`/config/instalacao.md`]: passo a passo para instalar Python e dependências
