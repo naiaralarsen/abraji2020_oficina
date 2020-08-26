@@ -14,8 +14,9 @@ Depois basta descompactar o arquivo baixado.
 
 ### Índice
 
-- [Instalação](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/config/instalacao.md) [`/config/instalacao.md`]: passo a passo para instalar Python e dependências
-- [Introdução](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/src/intro) [`/src/intro/*.ipynb`]: notebooks onde alguns conceitos são detalhados
-- [Bases](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/src/data) [`/src/data/*.csv`]: arquivos `.csv` que usaremos na oficina
-- [Análise](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/src/work/letalidade_policial.ipynb) [`/src/work/letalidade_policial.ipynb`]: notebook com o código comentado apresentado na oficina
+- [Instalação](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/config/instalacao.md) [`/config/instalacao.md`]: passo a passo para instalar Python e bibliotecas
+- [Apresentação](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/src/intro/apresentacao.pdf) [`/src/intro/apresentacao.pdf`]: apresentação usada na oficina
+- [Introdução](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/src/intro) [`/src/intro/*.ipynb`]: notebooks onde alguns conceitos são ensinados
+- [Bases](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/src/data) [`/src/data/*.csv`]: arquivos `.csv` usados no notebook criado na oficina
+- [Análise](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/src/work/letalidade_policial.ipynb) [`/src/work/letalidade_policial.ipynb`]: notebook criado na oficina, com comentários
 - [Exemplos](https://github.com/rodolfo-viana/abraji2020_oficina/blob/master/src/misc) [`/src/misc/*.ipynb`]: análises que deram origem a reportagens
